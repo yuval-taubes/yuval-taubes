@@ -2,10 +2,10 @@
 
 ## About me
 
-Hello, world. I'm Yuval Taubes, a front-End developer and web developer student based
+Hello, world. I'm Yuval Taubes, a front-End developer and web development student based
 in Winnipeg, Canada.
 
-I'm a web developer who is passionate about creating attractive, functionial websites. I also enjoy developing UX and UI for front end development
+I'm a web developer who is passionate about creating websites, using HTML and CSS. I also enjoy developing UX and UI for front end development to improve the users experience
 
 I have advanced HTML and CSS skills and medial Javascript skills, with basic knoledge of both Bootstrap and game designs
 ### Skills
