@@ -5,6 +5,8 @@
 Hello, world. I'm Yuval Taubes, a Full Stack developer student based
 in Winnipeg, Canada.
 
+Some of my skills include: C#, Entity Framework, SQLSERVER, SSMS, Javascript, React, Html, CSS, and Bootstrap.
+
 ### Skills
 
 ![](https://img.shields.io/badge/code-javascript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=51be8d)
